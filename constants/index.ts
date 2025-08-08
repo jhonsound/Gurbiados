@@ -1,4 +1,3 @@
-import arrowBack from "../assets/icons/arrow-back.png";
 import arrowDown from "@/assets/icons/arrow-down.png";
 import arrowRight from "@/assets/icons/arrow-right.png";
 import bag from "@/assets/icons/bag.png";
@@ -6,7 +5,6 @@ import check from "@/assets/icons/check.png";
 import clock from "@/assets/icons/clock.png";
 import dollar from "@/assets/icons/dollar.png";
 import envelope from "@/assets/icons/envelope.png";
-import home from "@/assets/icons/home.png";
 import location from "@/assets/icons/location.png";
 import logout from "@/assets/icons/logout.png";
 import minus from "@/assets/icons/minus.png";
@@ -18,6 +16,8 @@ import search from "@/assets/icons/search.png";
 import star from "@/assets/icons/star.png";
 import trash from "@/assets/icons/trash.png";
 import user from "@/assets/icons/user.png";
+import arrowBack from "../assets/icons/arrow-back.png";
+/* import home from '@/assets/icons/home.png'; */
 
 import avatar from "@/assets/images/avatar.png";
 import avocado from "@/assets/images/avocado.png";
@@ -187,7 +187,7 @@ export const images = {
     clock,
     dollar,
     envelope,
-    home,
+   /*  home, */
     location,
     logout,
     minus,
