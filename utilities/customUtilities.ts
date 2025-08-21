@@ -85,7 +85,7 @@ module.exports = plugin(function ({ addUtilities, theme }: any) {
     },
 
     ".custom-btn": {
-      backgroundColor: theme("colors.primary.DEFAULT"),
+      backgroundColor: theme("colors.primary"),
       borderRadius: "9999px",
       padding: "12px",
       width: "100%",

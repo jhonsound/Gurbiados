@@ -30,6 +30,10 @@ import coleslaw from "@/assets/images/coleslaw.png";
 import cucumber from "@/assets/images/cucumber.png";
 import emptyState from "@/assets/images/empty-state.png";
 import fries from "@/assets/images/fries.png";
+import gurbiados1 from "@/assets/images/gurbiados1.jpeg";
+import gurbiados2 from "@/assets/images/gurbiados2.jpeg";
+import gurbiados3 from "@/assets/images/gurbiados3.jpeg";
+import gurbiados4 from "@/assets/images/gurbiados4.jpeg";
 import loginGraphic from "@/assets/images/login-graphic.png";
 import logo from "@/assets/images/logo.png";
 import mozarellaSticks from "@/assets/images/mozarella-sticks.png";
@@ -158,6 +162,10 @@ export const toppings = [
 ];
 
 export const images = {
+    gurbiados1,
+    gurbiados2,
+    gurbiados3,
+    gurbiados4,
     avatar,
     avocado,
     bacon,
